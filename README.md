@@ -25,4 +25,4 @@ builder.Services.AddPropertyTypeResolver();
 
 #### 演示
 
-[sample](docs/sample.gif)
+![sample](docs/sample.gif)
